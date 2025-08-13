@@ -1,11 +1,30 @@
-## Technologies used
-```
-Pure HTML, CSS and vanilla JavaScript.
-```
-<br/>
+# Cards Dinâmicos
 
+## Tecnologias utilizadas
 
-## License
+* **HTML**
+* **CSS**
+* **JavaScript**
 
-It's available under the terms of the [MIT License](http://opensource.org/licenses/MIT).
+## Como clonar e abrir o projeto
+
+1. Clone este repositório:
+
+   ```bash
+   git clone https://github.com/njunio10/Cards-Din-micos.git
+   ```
+
+2. Acesse a pasta do projeto:
+
+   ```bash
+   cd Cards-Din-micos
+   ```
+
+3. Abra no VS Code:
+
+   ```bash
+   code .
+   ```
+
+Agora você já pode explorar e modificar o projeto diretamente no editor.
 
